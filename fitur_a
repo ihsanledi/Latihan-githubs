@@ -17,3 +17,10 @@ kalo mau ubah pake
 
 git config --global user.name "Nama user"
 git config --global user.email "Nama email"
+
+cara melihat jejak commit bisa peke
+git log
+
+
+kjjii
+kok
