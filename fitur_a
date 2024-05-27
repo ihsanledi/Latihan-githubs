@@ -9,3 +9,11 @@ cek file udah masuk ke staging area(SD) atau belum pake git status
 
 lakuin commit bisa dengan ketik git commit dan kasih pesan pada filenya
 
+cara cek email udah ke setting blm pake
+
+git config --global -l
+
+kalo mau ubah pake 
+
+git config --global user.name "Nama user"
+git config --global user.email "Nama email"
