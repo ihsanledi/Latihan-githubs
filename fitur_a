@@ -20,3 +20,4 @@ git config --global user.email "Nama email"
 
 cara melihat jejak commit bisa peke
 git log
+
