@@ -7,3 +7,5 @@ SD
 
 cek file udah masuk ke staging area(SD) atau belum pake git status
 
+lakuin commit bisa dengan ketik git commit dan kasih pesan pada filenya
+
