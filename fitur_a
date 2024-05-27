@@ -25,5 +25,4 @@ kalo mau ngubah head commit ke versi tertentu copy commit hash di git log dan ke
 
 git checkout /commit hash
 
-
-iduiuwcnki
+cara bikin new branch bisa pake switch atau checkout
