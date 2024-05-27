@@ -36,7 +36,6 @@ git switch -c nama_branch
 terus kalo udah di switch dan mau dimerge
 balik ke branch main/ branch utama
 
-terus lakuin merge dengan git merge nama_branch_bar
+terus lakuin merge dengan git merge nama_branch_baru
 
-
-Ini tidak jadi seperti itu
+kalo terjadi konflik ketika merge bisa resolve di mconflict editor
