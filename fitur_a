@@ -26,3 +26,14 @@ kalo mau ngubah head commit ke versi tertentu copy commit hash di git log dan ke
 git checkout /commit hash
 
 cara bikin new branch bisa pake switch atau checkout
+
+kalo kita mau balik ke versi sebelumnya terus mau ngambil versi itu buat jadi head kita ubah dulu head dari versinya dengan
+git checkout commit hashnya
+
+terus bikin branch baru dengan switch branch
+git switch -c nama_branch
+
+terus kalo udah di switch dan mau dimerge
+balik ke branch main/ branch utama
+
+terus lakuin merge dengan git merge nama_branch_baru
